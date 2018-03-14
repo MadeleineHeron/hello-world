@@ -1,2 +1,6 @@
 # hello-world
-Just a repository
+
+Hi there, starman.
+
+Going to Mars too someday.
+See you later, alligator.
